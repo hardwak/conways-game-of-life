@@ -1,3 +1,8 @@
+//
+//
+//My first project build in java at the beginning of university
+//
+//
 import java.util.Random;
 
 class Macierz {
